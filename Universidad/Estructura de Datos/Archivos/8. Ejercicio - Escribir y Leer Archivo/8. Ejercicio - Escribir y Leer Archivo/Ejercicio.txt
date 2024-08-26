@@ -1,0 +1,1 @@
+codigo anterior, pero separar en archivos distintos pares e impares, como en la imagen

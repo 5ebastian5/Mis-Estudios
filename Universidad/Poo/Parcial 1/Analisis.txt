@@ -1,0 +1,4 @@
+*Objetos*
+*Equipos*
+*Participantes*-Nombre--cc--puntuacion de rendimiento-
+*Pruebas*-descripcion--dificultad--area apuntada-

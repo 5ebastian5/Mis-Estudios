@@ -1,0 +1,5 @@
+Pedro,Calle 66,3506666940,15978936,Estudiante,123
+señor,care 23,3132752102,12378,profesor,456
+karen,cra 12,3212547984,157896,Estudiante,687
+edmundo,calle 23,3142487569,9548765,profesor,951
+kaka,35l,3547851,10254782,estudiante,1487

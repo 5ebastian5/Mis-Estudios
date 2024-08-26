@@ -1,0 +1,8 @@
+520 Danna 4.8
+522 Julian 3.8
+524 Maria 4.5 
+526 Sebastian 2.0 
+528 Keiner 4.0 
+560 Nikolai 4.4
+562 Andres 3.8
+564 Derek 4.6
